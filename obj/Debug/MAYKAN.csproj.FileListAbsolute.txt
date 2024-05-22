@@ -1,0 +1,10 @@
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\bin\Debug\MAYKAN.exe.config
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\bin\Debug\MAYKAN.exe
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\bin\Debug\MAYKAN.pdb
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.csproj.AssemblyReference.cache
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.Form1.resources
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.Properties.Resources.resources
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.csproj.GenerateResource.cache
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.csproj.CoreCompileInputs.cache
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.exe
+C:\Users\Jomari Velasquez\source\repos\MAYKAN\obj\Debug\MAYKAN.pdb
